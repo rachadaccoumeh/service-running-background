@@ -19,6 +19,5 @@
         <service android:name=".MyService"></service>
     </application>
 
-<!--TODO fix pc-->
 
 </manifest>
